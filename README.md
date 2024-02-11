@@ -1,4 +1,4 @@
-#This is TWS's Task Management App created by Mayank Nagariya.
+#This is Task Management App created by Mayank Nagariya.
 
 Tech stack used-
 1. Backend- Flask (choosen flask because it's very lightweight and gives us flexibility to choose other things)
@@ -10,7 +10,7 @@ Tech stack used-
 pip install -r requirements.txt 
 
 # for jwt secret key-
-create .env file in LOAN APP folder. 
+create .env file in folder. 
 JWT_SECRET_KEY = <keep any secret string key>
 e.g- JWT_SECRET_KEY = "TWSproject"
 
